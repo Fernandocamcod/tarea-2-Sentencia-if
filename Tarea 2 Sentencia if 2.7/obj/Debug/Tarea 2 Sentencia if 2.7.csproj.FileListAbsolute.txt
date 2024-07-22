@@ -1,0 +1,7 @@
+C:\Users\USUARIO\source\repos\Tarea 2 Sentencia if 2.7\bin\Debug\Tarea 2 Sentencia if 2.7.exe.config
+C:\Users\USUARIO\source\repos\Tarea 2 Sentencia if 2.7\bin\Debug\Tarea 2 Sentencia if 2.7.exe
+C:\Users\USUARIO\source\repos\Tarea 2 Sentencia if 2.7\bin\Debug\Tarea 2 Sentencia if 2.7.pdb
+C:\Users\USUARIO\source\repos\Tarea 2 Sentencia if 2.7\obj\Debug\Tarea 2 Sentencia if 2.7.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Tarea 2 Sentencia if 2.7\obj\Debug\Tarea 2 Sentencia if 2.7.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Tarea 2 Sentencia if 2.7\obj\Debug\Tarea 2 Sentencia if 2.7.exe
+C:\Users\USUARIO\source\repos\Tarea 2 Sentencia if 2.7\obj\Debug\Tarea 2 Sentencia if 2.7.pdb

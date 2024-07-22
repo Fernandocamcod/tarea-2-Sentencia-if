@@ -1,0 +1,7 @@
+C:\Users\USUARIO\source\repos\Tarea 2 Senetencia if 2.8\bin\Debug\Tarea 2 Senetencia if 2.8.exe.config
+C:\Users\USUARIO\source\repos\Tarea 2 Senetencia if 2.8\bin\Debug\Tarea 2 Senetencia if 2.8.exe
+C:\Users\USUARIO\source\repos\Tarea 2 Senetencia if 2.8\bin\Debug\Tarea 2 Senetencia if 2.8.pdb
+C:\Users\USUARIO\source\repos\Tarea 2 Senetencia if 2.8\obj\Debug\Tarea 2 Senetencia if 2.8.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Tarea 2 Senetencia if 2.8\obj\Debug\Tarea 2 Senetencia if 2.8.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Tarea 2 Senetencia if 2.8\obj\Debug\Tarea 2 Senetencia if 2.8.exe
+C:\Users\USUARIO\source\repos\Tarea 2 Senetencia if 2.8\obj\Debug\Tarea 2 Senetencia if 2.8.pdb

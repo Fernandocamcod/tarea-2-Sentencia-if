@@ -1,0 +1,7 @@
+C:\Users\USUARIO\source\repos\Tarea 2 Setencia if 2.6\bin\Debug\Tarea 2 Setencia if 2.6.exe.config
+C:\Users\USUARIO\source\repos\Tarea 2 Setencia if 2.6\bin\Debug\Tarea 2 Setencia if 2.6.exe
+C:\Users\USUARIO\source\repos\Tarea 2 Setencia if 2.6\bin\Debug\Tarea 2 Setencia if 2.6.pdb
+C:\Users\USUARIO\source\repos\Tarea 2 Setencia if 2.6\obj\Debug\Tarea 2 Setencia if 2.6.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Tarea 2 Setencia if 2.6\obj\Debug\Tarea 2 Setencia if 2.6.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Tarea 2 Setencia if 2.6\obj\Debug\Tarea 2 Setencia if 2.6.exe
+C:\Users\USUARIO\source\repos\Tarea 2 Setencia if 2.6\obj\Debug\Tarea 2 Setencia if 2.6.pdb
